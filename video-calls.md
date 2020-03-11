@@ -29,7 +29,7 @@ for a video call.
    ビデオコールは参加者が限られます: issueによる非同期コミュニケーションでは、いつでも誰でも参加できます。会議を始める前に関係者が誰であるか知る必要もありません。誰でもいつでも貢献できます。ビデオコールは、招待され（加えて承認され）た参加者だけに限られます。
 
    1. You can easily "promote" an async conversation from an issue to a video call, as needed. The reverse is harder. So there is lower risk to start with an async conversation.  
-   非同期な対話であるissueからビデオコールには必要に簡単に”移行”できます。ですが、戻すのは難しいです。なので、非同期な対話から始めるのがリスクが少ないです。
+   非同期な対話であるissueからビデオコールには必要に応じて簡単に”移行”できます。ですが、戻すのは難しいです。なので、非同期な対話から始める方がリスクが少ないです。
 
    1. For a newcomer to the conversation, it's easier and more efficient to parse an issue, than read a video transcript or watch it.  
    対話への新規参入者にとって、ビデオの文字起こしを読んだり、ビデオを見るのと比べて、issueを読むのは簡単で効率的です。  
@@ -43,7 +43,8 @@ for a video call.
    (訳注: フルリモート環境においてはビデオをOnにすることはとても大事でありという判断があり、一般にビデオをOffすべきと考える色々な理由があるが、ビデオをOnし続けるように一般にOffすべき理由も受け入れるべきという考え  https://gitlab.com/gitlab-com/www-gitlab-com/issues/4102)
 
    1. Don't worry if you [can't pay attention at the meeting](https://about.gitlab.com/handbook/communication/#paying-attention-in-meetings) because you're doing something else, you are the manager of your attention. The flip-side of being the manager of your own attention is that others should not hesitate to request your attention when it is needed.  
-   もし、別のことをしている最中などで、会議に関心を払えないとしても、それは気にしなくてよい。自分の関心は自分でが決めることである。自分の関心は自分で決めることの裏返しとして、あなたに関心を持ってもらうようリクエストすることを他人はためらってはいけない。必要な時は。
+   もし、別のことをしている最中などで、会議に関心を払えないとしても、それは気にしなくてよい。自分の関心は自分でが決めることである。逆に関心を払ってもらう必要があるときは、それを要求する事をためらうべきではない。
+
 
    1. It's okay to eat on video if you're hungry (please turn your mic off)  
    お腹が空いているならビデオコール中になにか食べてもいいよ。（でもマイクはミュートしてくださいね）
@@ -53,7 +54,7 @@ for a video call.
    （訳注: うまく訳せなかったけど、家族と過ごすようなラフな格好や汗だくでもビデオ会議OKだよということ）
 
    1. Having pets, children, significant others, friends, and family visible during video chats is encouraged. If they are human, ask them to wave at your remote team member to say "Hi".  
-   ペットや子供やあなたの大切な人、友人、そして家族がビデオチャットに映ることは推奨されています。相手が人であれば、チームメンバーに手を振って”Hi”と呼びかけるようにお願いしてみてください。
+   ペットや子供やあなたの大切な人、友人、そして家族がビデオチャットに映ることは推奨されています。その方達にはチームメンバーに手を振って”Hi”と呼びかけるようにお願いしてみてください。
 
    1. Do not feel forced to have your video on, use your best judgement  
    ビデオをOnすることを強制されたと感じるな。あなたのベストの判断をしてください。  
